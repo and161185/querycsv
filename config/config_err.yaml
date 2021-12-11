@@ -1,0 +1,3 @@
+tableFile: ..\testing\table.csv
+timeout: 10
+logLevel: WrongLevel
